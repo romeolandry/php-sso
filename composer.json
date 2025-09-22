@@ -1,0 +1,19 @@
+{
+    "name": "gk/php-sso",
+    "description": "GK software simple single sign on",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gk\\PhpSso\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Romeo Landry Kamgo Chetchom"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
